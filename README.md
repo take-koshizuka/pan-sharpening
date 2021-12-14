@@ -1,5 +1,4 @@
 # pan-sharpening
-# pan-sharpening
 
 Usage: 
 ``` bash
