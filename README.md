@@ -1,6 +1,5 @@
-# pan-sharpening
+# UTokyo RS21 Pan-sharpening
 
-Usage: 
 ``` bash
 python3 main.py [-m] [-o] [-z] 
 ```
